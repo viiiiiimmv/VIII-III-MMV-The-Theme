@@ -1,0 +1,21 @@
+{
+  "name": "viii-iii-mmv",
+  "displayName": "VIII-III-MMV",
+  "description": "A custom made extension made by a noobie for a noobie",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VIII-III-MMV",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VIII-III-MMV-color-theme.json"
+      }
+    ]
+  }
+}
