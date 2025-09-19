@@ -3,6 +3,7 @@
   "displayName": "VIII-III-MMV",
   "description": "A custom made extension made by a noobie for a noobie",
   "version": "0.0.1",
+  "publisher": "VIII-III-MMV",
   "engines": {
     "vscode": "^1.104.0"
   },
