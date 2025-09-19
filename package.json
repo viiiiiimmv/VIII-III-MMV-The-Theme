@@ -2,7 +2,7 @@
   "name": "viii-iii-mmv",
   "displayName": "VIII-III-MMV",
   "description": "A custom made extension made by a noobie for a noobie",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "VIII-III-MMV",
   "engines": {
     "vscode": "^1.104.0"
@@ -10,6 +10,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "https://res.cloudinary.com/ddyc6aljm/image/upload/v1758266258/Happy_Teacher_s_Day_imresizer_iioy70.jpg",
   "contributes": {
     "themes": [
       {
